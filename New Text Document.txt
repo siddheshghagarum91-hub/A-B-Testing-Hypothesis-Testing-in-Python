@@ -1,0 +1,8 @@
+The A/B test was conducted to evaluate whether the treatment version
+improves conversion rates compared to the control group.
+
+Based on the chi-square test, the p-value was less than 0.05,
+indicating a statistically significant difference.
+
+The treatment group showed a higher conversion rate.
+Hence, it is recommended to implement the treatment version.
